@@ -1,5 +1,8 @@
-# Inroduction
-This is mainly the aggregation of code of Synthesis Programming by Yuming Liu at Beijing Normal Univercity.
+# MFC Based on ZB
+address: https://github.com/kangchengX/StudyzbMFCPartGruop
 
-# 介绍
-该项目主要是北京师范大学刘玉铭老师的综合编程代码的综合。
+## Introduction
+This is a MFC program, mainly based on Systhesis Programming (Zonghe Biancheng) by Yuming Liu at Beijing Normal University. 
+
+## 介绍
+这是一个 MFC 程序，主要基于北京师范大学的刘玉铭老师的综合编程课程。
